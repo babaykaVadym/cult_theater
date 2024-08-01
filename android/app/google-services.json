@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956169169157",
+    "project_id": "cult-theatre-app",
+    "storage_bucket": "cult-theatre-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956169169157:android:e72f14dbf2ba2370086f6c",
+        "android_client_info": {
+          "package_name": "com.cult.theatre.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPeCToQnLPSu9xWazTNwz82w5Unull6Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

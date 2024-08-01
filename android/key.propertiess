@@ -1,0 +1,5 @@
+
+storePassword=1234567te
+keyPassword=1234567te
+keyAlias=key
+storeFile=/Users/macbookpro/Documents/keys/teater_key.jks
